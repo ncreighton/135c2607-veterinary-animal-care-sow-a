@@ -1,2 +1,25 @@
-# 135c2607-veterinary-animal-care-sow-a
-Stop wasting hours drafting SOWs from scratch—your animal care projects deserve a scope document that's as precise as your diagnosis.  This generator eliminates the guesswork and inconsistency of manual SOW creation, giving you a professional, compliant, and customizable template tailored for veterinary and animal care services. Save time, reduce e
+# Veterinary & Animal Care SOW and Scope Document Generator
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28E7sLdPp7Eo6xyfQ8d0p0U)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28E7sLdPp7Eo6xyfQ8d0p0U)
+
